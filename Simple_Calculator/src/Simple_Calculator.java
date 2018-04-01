@@ -5,7 +5,7 @@ public class Simple_Calculator {
 		
 	//Áý1
 	//Áý2
-		
+	//Áý3
 
 	}
 
