@@ -23,8 +23,12 @@ public class Simple_Calculator {
 >>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
 	
 	
+<<<<<<< HEAD
 	
 	//sdjflksjdlkj
+=======
+	//asdlfkjalsdk
+>>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
 	}
 
 }
