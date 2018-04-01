@@ -15,21 +15,24 @@ public class Simple_Calculator {
 
 		//asdfasdf
 
-<<<<<<< HEAD
+
 		
 		//집
-=======
+
 		//충돌
->>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
+
 	
 	
-<<<<<<< HEAD
+
 	
-	//sdjflksjdlkj
-=======
+
 	//asdlfkjalsdk
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
 	//집 1111111111
+=======
+
+>>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
 	}
 
 }
