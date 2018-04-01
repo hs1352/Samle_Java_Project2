@@ -21,6 +21,9 @@ public class Simple_Calculator {
 =======
 		//Ãæµ¹
 >>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
+	
+	
+	//asdlfkjalsdk
 	}
 
 }
