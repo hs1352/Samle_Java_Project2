@@ -9,6 +9,8 @@ public class Simple_Calculator {
 		//adfasdf
 		
 		//학원
+		
+		//가즈아 학원
 	}
 
 }
