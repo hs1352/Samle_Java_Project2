@@ -9,6 +9,7 @@ public class Simple_Calculator {
 		//adfasdf
 		
 		//ÇÐ¿ø
+		//asdfasdf
 	}
 
 }
