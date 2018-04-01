@@ -15,8 +15,12 @@ public class Simple_Calculator {
 
 		//asdfasdf
 
+<<<<<<< HEAD
 		
 		//Áý
+=======
+		//Ãæµ¹
+>>>>>>> branch 'master' of https://github.com/hs1352/Samle_Java_Project2.git
 	}
 
 }
